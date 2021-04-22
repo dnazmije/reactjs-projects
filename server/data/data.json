@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "name": "Project 1",
+      "description": "Project 1 description",
+      "id": 1
+    },
+    {
+      "name": "Project 2",
+      "description": "Project 2 description",
+      "id": 2
+    },
+    {
+      "name": "One",
+      "description": "Two",
+      "id": 3
+    }
+  ],
+  "times": [
+    {
+      "amount": "3",
+      "description": "Time",
+      "projectId": "1",
+      "id": 1
+    },
+    {
+      "amount": "2",
+      "description": "Time in hours",
+      "projectId": "2",
+      "id": 2
+    }
+  ]
+}
